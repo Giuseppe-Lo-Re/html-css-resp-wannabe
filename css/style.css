@@ -205,4 +205,8 @@ img {
     .why-us {
         margin-bottom: 0;
     }
+
+    .why-us .row {
+        padding-bottom: 50px;
+    }
  }
